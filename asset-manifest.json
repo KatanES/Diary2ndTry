@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Diary2ndTry/static/css/main.7acaea2f.css",
+    "main.js": "/Diary2ndTry/static/js/main.07d3183d.js",
+    "index.html": "/Diary2ndTry/index.html",
+    "main.7acaea2f.css.map": "/Diary2ndTry/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Diary2ndTry/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
